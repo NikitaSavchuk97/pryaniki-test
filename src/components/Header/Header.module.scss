@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: 20px 0 20px 0;
+
+  color: #2595fd;
+
+  &_wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    &_wrapper {
+      width: 100%;
+      justify-content: space-between;
+    }
+
+    align-items: start;
+    flex-direction: column;
+  }
+}
