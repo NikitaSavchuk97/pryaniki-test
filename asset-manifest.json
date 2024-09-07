@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pryaniki-test/static/css/main.84255fc4.css",
-    "main.js": "/pryaniki-test/static/js/main.b9d14afa.js",
-    "index.html": "/pryaniki-test/index.html",
-    "main.84255fc4.css.map": "/pryaniki-test/static/css/main.84255fc4.css.map",
-    "main.b9d14afa.js.map": "/pryaniki-test/static/js/main.b9d14afa.js.map"
+    "main.css": "./static/css/main.84255fc4.css",
+    "main.js": "./static/js/main.b9d14afa.js",
+    "index.html": "./index.html",
+    "main.84255fc4.css.map": "./static/css/main.84255fc4.css.map",
+    "main.b9d14afa.js.map": "./static/js/main.b9d14afa.js.map"
   },
   "entrypoints": [
     "static/css/main.84255fc4.css",
